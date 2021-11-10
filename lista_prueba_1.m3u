@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV México (720p) [Not 24/7]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1924674763_b1896000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Physical S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi0mcLIM6SQqp93BhbY3ax3hVKl.jpg" group-title="SERIES APPLE TV+",Physical S01 E09
+http://777back.xyz:8080/series/FuXipTv/TBwZmagvnh/94620.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="After: En mil pedazos (2020)" tvg-logo="http://tv.lklix.com:8080/images/422c859f41e0521e299d957262592088.jpg" group-title="Peliculas Full HD",After: En mil pedazos (2020)
+http://tv.lklix.com:8080/movie/HuMo77/77hUmO/35663.mkv
+
+
+
