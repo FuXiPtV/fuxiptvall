@@ -75,8 +75,7 @@ http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78077
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78078
 #EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO Signature" tvg-logo="" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",LAT-HD | HBO Signature
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78079
-#EXTINF:-1 tvg-id="Canal History (México)" tvg-name="LAT-HD | History Channel" tvg-logo="" group-title="🦊fuxiptv.com ⭐️VIP⭐️  DOCUMENTALES ",LAT-HD | History Channel
-http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78080
+
 #EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Hola TV" tvg-logo="" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",LAT-HD | Hola TV
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78081
 #EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Investigation Discovery" tvg-logo="" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",LAT-HD | Investigation Discovery
@@ -227,7 +226,6 @@ http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78158
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78160
 #EXTINF:-1 tvg-id="" tvg-name="FHD | Hola TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",FHD | Hola TV
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78161
-#EXTINF:-1 tvg-id="Canal History (México)" tvg-name="FHD | History Channel" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/021/original/pic_history.png?1522176657" group-title="🦊fuxiptv.com ⭐️VIP⭐️  DOCUMENTALES ",FHD | History Channel
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78162
 #EXTINF:-1 tvg-id="" tvg-name="FHD | HBO Signature" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",FHD | HBO Signature
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78163
@@ -331,7 +329,6 @@ http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78215
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78216
 #EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS CHILE FHD" tvg-logo="https://media.cnnchile.com/sites/2/2021/01/Captura-de-Pantalla-2021-01-16-a-las-17.17.58-740x430.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  DEPORTES HD",CL | TNT SPORTS CHILE FHD
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78218
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS 1 HD CHILE" tvg-logo="https://media.cnnchile.com/sites/2/2021/01/Captura-de-Pantalla-2021-01-16-a-las-17.17.58-740x430.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  DEPORTES HD",CL | TNT SPORTS 1 HD CHILE
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78219
 #EXTINF:-1 tvg-id="" tvg-name="CL | CDO HD" tvg-logo="" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",CL | CDO HD
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78220
@@ -478,66 +475,62 @@ http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78299
 #EXTINF:-1 tvg-id="" tvg-name="ES | M.Liga de Campeones FHD" tvg-logo="https://queadslcontratar.com/sites/queadslcontratar.com/files/images/logos/liga-campeones-movistar-350x183.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CANALES FULL HD",ES | M.Liga de Campeones FHD
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/78302
 
-#EXTINF:-1 tvg-id="CINECANAL OESTE HD" tvg-name="CINECANAL " tvg-logo="http://latinolite.xyz:8080/images/e9a5213a49518ff2b527f87ca1168f42.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",CINECANAL 
+#EXTINF:-1 tvg-id="CINECANAL OESTE HD" tvg-name="CINECANAL " tvg-logo="http://latinolite.xyz:8080/images/e9a5213a49518ff2b527f87ca1168f42.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",CINECANAL 
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/60
-#EXTINF:-1 tvg-id="Canal De Película HD" tvg-name=" DE PELICULA" tvg-logo="http://latinolite.xyz:8080/images/2254342becceafbd04538e0a38696791.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", DE PELICULA
+#EXTINF:-1 tvg-id="Canal De Película HD" tvg-name=" DE PELICULA" tvg-logo="http://latinolite.xyz:8080/images/2254342becceafbd04538e0a38696791.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", DE PELICULA
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/63
-#EXTINF:-1 tvg-id="FOX CINEMA (Fox Cinema HD)" tvg-name="STAR CINEMA PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/b5ecbbe0ec5970ec9eb2ad084fa3121b.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",STAR CINEMA PREMIUM
+#EXTINF:-1 tvg-id="FOX CINEMA (Fox Cinema HD)" tvg-name="STAR CINEMA PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/b5ecbbe0ec5970ec9eb2ad084fa3121b.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",STAR CINEMA PREMIUM
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/68
-#EXTINF:-1 tvg-id="FOX CLASSIC (Fox Classic HD)" tvg-name=" STAR CLASSICS PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/5a50f3e30ddd90fde606b15898e69616.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", STAR CLASSICS PREMIUM
+#EXTINF:-1 tvg-id="FOX CLASSIC (Fox Classic HD)" tvg-name=" STAR CLASSICS PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/5a50f3e30ddd90fde606b15898e69616.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", STAR CLASSICS PREMIUM
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/69
-#EXTINF:-1 tvg-id="" tvg-name=" FXM" tvg-logo="http://latinolite.xyz:8080/images/ef473bf4bbb8992a41ca4c3555c8a01e.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", FXM
+#EXTINF:-1 tvg-id="" tvg-name=" FXM" tvg-logo="http://latinolite.xyz:8080/images/ef473bf4bbb8992a41ca4c3555c8a01e.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", FXM
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/73
-#EXTINF:-1 tvg-id="Golden Edge HD" tvg-name="GOLDEN EDGE" tvg-logo="http://latinolite.xyz:8080/images/c907e34d15777c7cb7858db86cb311fa.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",GOLDEN EDGE
+#EXTINF:-1 tvg-id="Golden Edge HD" tvg-name="GOLDEN EDGE" tvg-logo="http://latinolite.xyz:8080/images/c907e34d15777c7cb7858db86cb311fa.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",GOLDEN EDGE
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/77
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://latinolite.xyz:8080//images/845a385048e9888f4b1aebdcee337492.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://latinolite.xyz:8080//images/845a385048e9888f4b1aebdcee337492.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",STUDIO UNIVERSAL
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/90
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM " tvg-logo="http://latinolite.xyz:8080//images/4460eb39067e18df629ecf1f6d0ccdc2.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",TCM 
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM " tvg-logo="http://latinolite.xyz:8080//images/4460eb39067e18df629ecf1f6d0ccdc2.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",TCM 
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/96
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="http://latinolite.xyz:8080//images/35fae07191b44f24c95594746e261d8b.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",TNT
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="http://latinolite.xyz:8080//images/35fae07191b44f24c95594746e261d8b.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",TNT
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/97
-#EXTINF:-1 tvg-id="AMC East HD" tvg-name=" AMC " tvg-logo="http://latinolite.xyz:8080/images/f870b497bd49a422c3b0980458f78e00.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", AMC 
+#EXTINF:-1 tvg-id="AMC East HD" tvg-name=" AMC " tvg-logo="http://latinolite.xyz:8080/images/f870b497bd49a422c3b0980458f78e00.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", AMC 
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/336
-#EXTINF:-1 tvg-id="" tvg-name=" A3 SERIES" tvg-logo="http://latinolite.xyz:8080/images/649389e68577f3974856d3f127a595ed.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", A3 SERIES
+#EXTINF:-1 tvg-id="" tvg-name=" A3 SERIES" tvg-logo="http://latinolite.xyz:8080/images/649389e68577f3974856d3f127a595ed.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", A3 SERIES
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/401
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E" tvg-logo="http://latinolite.xyz:8080//images/cae225005c906bd2add646a81468a376.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",A&E
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E" tvg-logo="http://latinolite.xyz:8080//images/cae225005c906bd2add646a81468a376.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",A&E
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/601
-#EXTINF:-1 tvg-id="HBO PLUS(HBO Plus HD)" tvg-name="HBO PLUS" tvg-logo="http://latinolite.xyz:8080//images/b186270f01ff1f6dbde9a9565b471928.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",HBO PLUS
+#EXTINF:-1 tvg-id="HBO PLUS(HBO Plus HD)" tvg-name="HBO PLUS" tvg-logo="http://latinolite.xyz:8080//images/b186270f01ff1f6dbde9a9565b471928.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",HBO PLUS
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/634
-#EXTINF:-1 tvg-id="HBO SIGNATURE (HBO Signature HD)" tvg-name="HBO SIGNATURE" tvg-logo="http://latinolite.xyz:8080//images/6e9fc83f6ec4663a14e97c5264df13df.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO SIGNATURE (HBO Signature HD)" tvg-name="HBO SIGNATURE" tvg-logo="http://latinolite.xyz:8080//images/6e9fc83f6ec4663a14e97c5264df13df.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",HBO SIGNATURE
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/635
-#EXTINF:-1 tvg-id="HBO POP (HBOPOP HD)" tvg-name="HBO POP" tvg-logo="http://latinolite.xyz:8080//images/efdb39a4c7286afcecf0e8a7435fce6a.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",HBO POP
+#EXTINF:-1 tvg-id="HBO POP (HBOPOP HD)" tvg-name="HBO POP" tvg-logo="http://latinolite.xyz:8080//images/efdb39a4c7286afcecf0e8a7435fce6a.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",HBO POP
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/11004
-#EXTINF:-1 tvg-id="Universal Channel East HD" tvg-name=" UNIVERSAL " tvg-logo="http://latinolite.xyz:8080//images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", UNIVERSAL 
+#EXTINF:-1 tvg-id="Universal Channel East HD" tvg-name=" UNIVERSAL " tvg-logo="http://latinolite.xyz:8080//images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", UNIVERSAL 
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28469
-#EXTINF:-1 tvg-id="Space (Space HD)" tvg-name=" CINE | SPACE " tvg-logo="http://latinolite.xyz:8080/images/1545de4168def65781aa57a6f8abf10d.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", CINE | SPACE 
+#EXTINF:-1 tvg-id="Space (Space HD)" tvg-name=" CINE | SPACE " tvg-logo="http://latinolite.xyz:8080/images/1545de4168def65781aa57a6f8abf10d.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", CINE | SPACE 
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28497
-#EXTINF:-1 tvg-id="PARAMOUNT Channel HD" tvg-name="PARAMOUNT" tvg-logo="http://latinolite.xyz:8080/images/789952c7762fcf647e136dd05e064a1d.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",PARAMOUNT
+#EXTINF:-1 tvg-id="PARAMOUNT Channel HD" tvg-name="PARAMOUNT" tvg-logo="http://latinolite.xyz:8080/images/789952c7762fcf647e136dd05e064a1d.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",PARAMOUNT
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28507
-#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme HD)" tvg-name="HBO XTREAM HD" tvg-logo="http://latinolite.xyz:8080/images/00de4d9d2b4a739210917e2511d10a31.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",HBO XTREAM HD
+#EXTINF:-1 tvg-id="HBO XTREME (HBO Xtreme HD)" tvg-name="HBO XTREAM HD" tvg-logo="http://latinolite.xyz:8080/images/00de4d9d2b4a739210917e2511d10a31.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",HBO XTREAM HD
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28523
-#EXTINF:-1 tvg-id="HBO 2 (HBO 2 HD)" tvg-name="HBO 2" tvg-logo="http://latinolite.xyz:8080/images/b41e54c57cf92db9c81071a7fca25982.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",HBO 2
+#EXTINF:-1 tvg-id="HBO 2 (HBO 2 HD)" tvg-name="HBO 2" tvg-logo="http://latinolite.xyz:8080/images/b41e54c57cf92db9c81071a7fca25982.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",HBO 2
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28540
-#EXTINF:-1 tvg-id="HBO (HBO HD)" tvg-name=" HBO 1" tvg-logo="http://latinolite.xyz:8080/images/95d7d815dcdffd64569505d6b85e24a7.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", HBO 1
+#EXTINF:-1 tvg-id="HBO (HBO HD)" tvg-name=" HBO 1" tvg-logo="http://latinolite.xyz:8080/images/95d7d815dcdffd64569505d6b85e24a7.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", HBO 1
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28543
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://latinolite.xyz:8080/images/afeda469188fbc964d949faa482b7b57.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://latinolite.xyz:8080/images/afeda469188fbc964d949faa482b7b57.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",AXN HD
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/28558
-#EXTINF:-1 tvg-id="FOX Comedy (Fox Comedy HD)" tvg-name="STAR COMEDY PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/70a7ffaabaee5fd9a89930ffa9127040.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",STAR COMEDY PREMIUM
+#EXTINF:-1 tvg-id="FOX Comedy (Fox Comedy HD)" tvg-name="STAR COMEDY PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/70a7ffaabaee5fd9a89930ffa9127040.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",STAR COMEDY PREMIUM
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/29413
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES" tvg-logo="http://latinolite.xyz:8080/images/97df19b7dd8f5510a493a17b6caa6d86.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",TNT SERIES
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES" tvg-logo="http://latinolite.xyz:8080/images/97df19b7dd8f5510a493a17b6caa6d86.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",TNT SERIES
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/31490
-#EXTINF:-1 tvg-id="HBO Family (HBO Family HD)" tvg-name="HBO FAMILY" tvg-logo="http://latinolite.xyz:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family (HBO Family HD)" tvg-name="HBO FAMILY" tvg-logo="http://latinolite.xyz:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",HBO FAMILY
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/35162
-#EXTINF:-1 tvg-id="FOX Action (Fox Action HD)" tvg-name="STAR ACTION PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/b12a78d4f493de068ec0dd71d3296404.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",STAR ACTION PREMIUM
+#EXTINF:-1 tvg-id="FOX Action (Fox Action HD)" tvg-name="STAR ACTION PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/b12a78d4f493de068ec0dd71d3296404.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",STAR ACTION PREMIUM
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/55864
-#EXTINF:-1 tvg-id="FOX Family (Fox Family HD)" tvg-name="STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",STAR FUN
+#EXTINF:-1 tvg-id="FOX Family (Fox Family HD)" tvg-name="STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",STAR FUN
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/58343
-#EXTINF:-1 tvg-id="Canal Fox (Fox Channel HD)" tvg-name="STAR CHANNEL " tvg-logo="http://latinolite.xyz:8080/images/18fab524dcf342837d7dc0eb9d075c05.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ",STAR CHANNEL 
+#EXTINF:-1 tvg-id="Canal Fox (Fox Channel HD)" tvg-name="STAR CHANNEL " tvg-logo="http://latinolite.xyz:8080/images/18fab524dcf342837d7dc0eb9d075c05.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ",STAR CHANNEL 
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/58344
-#EXTINF:-1 tvg-id="FOX Movies (Fox Movies HD)" tvg-name=" STAR MOVIE PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/c9e4fdb46421710f5fca41ddef0873a0.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE ", STAR MOVIE PREMIUM
+#EXTINF:-1 tvg-id="FOX Movies (Fox Movies HD)" tvg-name=" STAR MOVIE PREMIUM" tvg-logo="http://latinolite.xyz:8080/images/c9e4fdb46421710f5fca41ddef0873a0.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  CINE HD ", STAR MOVIE PREMIUM
 http://777back.xyz:8080/fuXion007/pcWyLuPmvT/58345
-#EXTINF:-1 tvg-id="BOOMERANG HD" tvg-name="BOOMERANG" tvg-logo="http://latinolite.xyz:8080/images/65079b006e85a7e798abecb99e47c154.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  INFANTILES",BOOMERANG
-http://777back.xyz:8080/fuXion007/pcWyLuPmvT/37
-#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK" tvg-logo="http://latinolite.xyz:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="🦊fuxiptv.com ⭐️VIP⭐️  INFANTILES",CARTOON NETWORK
-http://777back.xyz:8080/fuXion007/pcWyLuPmvT/39
 
