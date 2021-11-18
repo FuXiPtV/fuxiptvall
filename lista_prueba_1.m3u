@@ -1,6 +1,5 @@
 #EXTM3U
-Legal:
-
+LEGAL:
 No se almacenan archivos de vídeo en este repositorio. El repositorio simplemente contiene enlaces enviados por el usuario a URL de transmisión de video disponibles públicamente, que hasta donde sabemos han sido hechas públicamente intencionalmente por los titulares de los derechos de autor. Si algún enlace en estas listas de reproducción infringe sus derechos como titular de derechos de autor, puede eliminarse enviando una solicitud de extracción o abriendo un problema. Sin embargo, tenga en cuenta que no tenemos control sobre el destino del enlace, y simplemente eliminar el enlace de la lista de reproducción no eliminará su contenido de la web. Tenga en cuenta que el enlace no infringe directamente los derechos de autor porque no se realiza ninguna copia en el sitio que proporciona el enlace y, por lo tanto, esta no es una razón válida para enviar un aviso de DMCA a GitHub. Para eliminar este contenido de la web, debe ponerse en contacto con el proveedor de alojamiento web que realmente aloja el contenido(no con GitHub, ni con los mantenedores de este repositorio).
 
 ¡ATENCION!
@@ -18,13 +17,13 @@ virtud de su naturaleza declarativa, sin embargo, en la práctica no resulta fac
 parte de los estándares universalmente compartidos en la materia. 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/nxze7"  group-title="🦊fuxiptv.com TOP10 SERIES SD", Dexter: New Blood (2021) SD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/nxze7"  group-title="🦊fuxiptv.com TOP 10 SERIES SD", Dexter: New Blood (2021) SD 
 https://xurl.es/0qhhn
 
-#EXTINF:-1 tvg-id="" tvg-name="Sin tiempo para morir (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDfYClNuplM26KwPbyFAE7CDZo4.jpg"  group-title="🦊fuxiptv.com ⭐️VIP⭐️TOP10 PELICULAS HD", Sin tiempo para morir (2021) HD
+#EXTINF:-1 tvg-id="" tvg-name="Sin tiempo para morir (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDfYClNuplM26KwPbyFAE7CDZo4.jpg"  group-title="🦊fuxiptv.com ⭐️VIP⭐️TOP 10 PELICULAS HD", Sin tiempo para morir (2021) HD
 http://777back.xyz:8080/movie/fuXion007/pcWyLuPmvT/111337.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Sin tiempo para morir (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDfYClNuplM26KwPbyFAE7CDZo4.jpg"  group-title="🦊fuxiptv.com ⭐️VIP⭐️TOP10 PELICULAS SD", Sin tiempo para morir (2021) HD#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/a69z7"  group-title="🦊fuxiptv.com TOP10 PELICULAS SD", Finch (2021) SD
+#EXTINF:-1 tvg-id="" tvg-name="Sin tiempo para morir (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDfYClNuplM26KwPbyFAE7CDZo4.jpg"  group-title="🦊fuxiptv.com ⭐️VIP⭐️TOP 10 PELICULAS SD", Sin tiempo para morir (2021) HD#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/a69z7"  group-title="🦊fuxiptv.com TOP10 PELICULAS SD", Finch (2021) SD
 https://xurl.es/yaxnz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/72eeo"  group-title="🦊fuxiptv.com TOP10 PELICULAS SD", Gunpowder Milkshake (2021) SD
 https://xurl.es/wzlfh
@@ -33,7 +32,7 @@ https://xurl.es/wzlfh
  
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️ ⭐️TOP10 PELICULAS HD",Shang-Chi y la leyenda de los Diez Anillos (2021) HD
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️ ⭐️TOP 10 PELICULAS HD",Shang-Chi y la leyenda de los Diez Anillos (2021) HD
 http://777back.xyz:8080/movie/fuXion007/pcWyLuPmvT/111413.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️ ⭐️TOP10 PELICULAS HD",Finch (2021) HD
 http://777back.xyz:8080/movie/fuXion007/pcWyLuPmvT/109779.mkv
