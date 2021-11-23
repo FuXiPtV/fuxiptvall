@@ -28,6 +28,8 @@ https://xurl.es/97edf
 #EXTINF:-1 tvg-id="" tvg-name="Sin tiempo para morir (2021) 1080p" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDfYClNuplM26KwPbyFAE7CDZo4.jpg"  group-title="🦊fuxiptv.com ⭐️VIP⭐️TOP 10 PELICULAS SD", Sin tiempo para morir (2021) HD#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/a69z7"  group-title="🦊fuxiptv.com TOP10 PELICULAS SD", Finch (2021) SD
 https://xurl.es/yaxnz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xurl.es/72eeo"  group-title="🦊fuxiptv.com TOP10 PELICULAS SD", Gunpowder Milkshake (2021) SD
+http://ss1.mxl-apps.services:2052/iptv_data/app/script/tv/8251c65a1a60ec823744b23374c4177d8ac9016d/fc791e89643ddf53bba6a5db243b0b7ae9593ba4/10064_19.m3u8
+
 https://xurl.es/pinay/series/FuXi/dkEYYNJbmF/96972.mkv
 
 
@@ -38,14 +40,5 @@ https://xurl.es/xl12s//movie/fuXion007/pcWyLuPmvT/109779.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar S01 E01" tvg-logo="https://unsoloclic.info/wp-content/uploads/2021/09/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX800_1.jpg" group-title="🦊fuxiptv.com ⭐️VIP⭐️ TOP10 SERIES HD", El juego del calamar HD
-https://xurl.es/akdp0
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:50
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:50.000000,
-http://cdn.mxltv.xyz/hls/reinicio_app_0.ts
-#EXTINF:12.000000,
-http://cdn.mxltv.xyz/hls/reinicio_app_1.ts
-#EXT-X-ENDLIST
+http://ss1.mxl-apps.services:2052/iptv_data/app/script/tv/fecd11a012ebf674b169e9d97c37f15e495ad2c2/1dd202ff1120982bf324866b38fed6a00733c1d5/1008_19.m3u8
 
