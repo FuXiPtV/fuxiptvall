@@ -7,3 +7,6 @@ http://tv.lklix.com:8080/FUXIPTV1/fuxiptv1/74429
 
 #EXTINF:-1 tvg-id="" tvg-name="USA: SNY (SD)" tvg-logo="" group-title="",USA: SNY (SD)
 http://tv.lklix.com:8080/FUXIPTV1/fuxiptv1/74453
+
+#EXTINF:-1 tvg-id="" tvg-name="VENUS sd*" tvg-logo="" group-title="",VENUS sd*
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125183614_1637883374_01418272_5300.ts
