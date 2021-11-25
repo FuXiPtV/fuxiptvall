@@ -3,6 +3,7 @@
 
 
 #EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/VpBVorp.png" group-title="",1+1 Спорт (720p) [Not 24/7]
-http://ss1.mxl-apps.services:2052/iptv_data/app/script/tv/fecd11a012ebf674b169e9d97c37f15e495ad2c2/3a9c36a8c25135749b307ccb96b93e438e3a65ec/10030_19.m3u8
+http://tv.lklix.com:8080/FUXIPTV1/fuxiptv1/74429
+
 #EXTINF:-1 tvg-id="" tvg-name="USA: SNY (SD)" tvg-logo="" group-title="",USA: SNY (SD)
-http://ss1.mxl-apps.services:2052/iptv_data/app/script/tv/fecd11a012ebf674b169e9d97c37f15e495ad2c2/26f21c8f2c3c5b8c30c02cfb1cd234bd33b5f03e/10023_19.m3u8
+http://tv.lklix.com:8080/FUXIPTV1/fuxiptv1/74453
