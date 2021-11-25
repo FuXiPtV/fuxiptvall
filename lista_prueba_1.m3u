@@ -8,5 +8,20 @@ http://tv.lklix.com:8080/FUXIPTV1/fuxiptv1/74429
 #EXTINF:-1 tvg-id="" tvg-name="USA: SNY (SD)" tvg-logo="" group-title="",USA: SNY (SD)
 http://tv.lklix.com:8080/FUXIPTV1/fuxiptv1/74453
 
-#EXTINF:-1 tvg-id="" tvg-name="VENUS sd*" tvg-logo="" group-title="",VENUS sd*
-http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125183614_1637883374_01418272_5300.ts
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:5323
+#EXTINF:10.010000,
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125184005_1637883605_01476364_5323.ts
+#EXTINF:10.010000,
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125184015_1637883615_01515468_5324.ts
+#EXTINF:10.010000,
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125184025_1637883625_01478620_5325.ts
+#EXTINF:10.010000,
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125184035_1637883635_01455120_5326.ts
+#EXTINF:10.010000,
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125184045_1637883645_01478620_5327.ts
+#EXTINF:10.010000,
+http://cdn.mxltv.xyz:8082/api/2.0/cdn/hls_3/1008/mxl_20211125184055_1637883655_01478056_5328.ts
