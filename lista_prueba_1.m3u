@@ -38,19 +38,19 @@ http://209.126.106.20:8880/movie/FUXIPTV/fuxiptv/8018.mkv
 
 
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="🦊fuxiptv.com🦊 Anime" Animation",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+http://209.126.106.20:8880/movie/FUXIPTV/fuxiptv/8018.mkv
 #EXTINF:-1 tvg-id="AdultSwimRickAndMorty.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="🦊fuxiptv.com🦊 Anime" Animation",Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bTWIjIw.jpg" group-title="🦊fuxiptv.com🦊 Anime" Animation",Adult Swim Robot Chicken (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+http://209.126.106.20:8880/movie/FUXIPTV/fuxiptv/8018.mkv
 #EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="🦊fuxiptv.com🦊 Anime" Animation",Adult Swim Samurai Jack (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QQc2rh8.jpg" group-title="🦊fuxiptv.com🦊 Anime" Animation",Adult Swim The Venture Bros (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+http://209.126.106.20:8880/movie/FUXIPTV/fuxiptv/8018.mkv
 
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="🦊fuxiptv.com🦊 Anime" Animation",Animax Japan (Indonesian Subs) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+http://209.126.106.20:8880/movie/FUXIPTV/fuxiptv/8018.mkv
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Vietnamese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="🦊fuxiptv.com🦊 Anime" Animation",Animax Japan (Vietnamese Subs) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
