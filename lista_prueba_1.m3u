@@ -1,7 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="2 Minutes of Fame (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzDyNVRMGinYFxblbIlpVY5nE6.jpg" group-title="ESTRENOS 2020",2 Minutes of Fame (2020)
 http://209.126.106.20:8880/movie/FUXIPTV/fuxiptv/13141.mp4
-http://stalkertvlatino.com:8080/movie/MIA64/64mia/72742.mkv
 #EXTINF:-1 tvg-id="" tvg-name="GIMS: On the Record (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDTIyjUIufAZZ3jMmHOfC1AkoYU.jpg" group-title="ESTRENOS 2020",GIMS: On the Record (2020)
 http://stalkertvlatino.com:8080/movie/MIA64/64mia/72745.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lazos malditos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbDvrkRsZb4Ik8fg2bJfWZQsXw1.jpg" group-title="ESTRENOS 2020",Lazos malditos (2020)
