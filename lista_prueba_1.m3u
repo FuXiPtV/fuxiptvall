@@ -1,35 +1,33 @@
-#EXTM3U x-tvg-url="RELAX"
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/tFks0c6.jpg" group-title="Relax",Adult Swim Off The Air (1080p) [Geo-blocked]
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFadultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel (480p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFuni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/YbD8uHc.png" group-title="Relax",Bumblebee TV Animals Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Forest Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/ii2IDmA.png" group-title="Relax",Bumblebee TV Rivers Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/8F9qPbt.png" group-title="Relax",Bumblebee TV Tropics Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFstitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/i43l93j.png" group-title="Relax",Bumblebee TV Waterfalls Live (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINF95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (720p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFa.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/L5JDAkh.png" group-title="Relax",Fish Tank (720p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFa.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFa.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams (720p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFcontent.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFi.imgur.com/7XsqSSZ.png" group-title="Relax",Stingray Naturescape (1080p)
-https://ia804604.us.archive.org/3/items/3-segundos-3/3%20segundos%203.ia.mp4?cnt=0  #EXTINFdai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTM3U x-tvg-url="RELAXXX"
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/tFks0c6.jpg" group-title="Relax",Adult Swim Off The Air (1080p) [Geo-blocked]
+https://xurl.es/w8y1m #EXTINF:  adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel (480p)
+https://xurl.es/w8y1m #EXTINF:  uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/YbD8uHc.png" group-title="Relax",Bumblebee TV Animals Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live (1080p) [Not 24/7]
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Forest Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live (1080p) [Not 24/7]
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/8F9qPbt.png" group-title="Relax",Bumblebee TV Tropics Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/i43l93j.png" group-title="Relax",Bumblebee TV Waterfalls Live (1080p)
+https://xurl.es/w8y1m #EXTINF:  95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (720p)
+https://xurl.es/w8y1m #EXTINF:  a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:-1 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/L5JDAkh.png" group-title="Relax",Fish Tank (720p)
+https://xurl.es/w8y1m #EXTINF:  a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
+https://xurl.es/w8y1m #EXTINF:  a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams (720p)
+https://xurl.es/w8y1m #EXTINF:  content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
+https://xurl.es/w8y1m #EXTINF:  stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
