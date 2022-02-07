@@ -1,33 +1,35 @@
-#EXTM3U x-tvg-url="RELAXXX"
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/tFks0c6.jpg" group-title="Relax",Adult Swim Off The Air (1080p) [Geo-blocked]
-https://xurl.es/w8y1m #EXTINF:  adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel (480p)
-https://xurl.es/w8y1m #EXTINF:  uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/YbD8uHc.png" group-title="Relax",Bumblebee TV Animals Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live (1080p) [Not 24/7]
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Forest Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live (1080p) [Not 24/7]
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/8F9qPbt.png" group-title="Relax",Bumblebee TV Tropics Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/i43l93j.png" group-title="Relax",Bumblebee TV Waterfalls Live (1080p)
-https://xurl.es/w8y1m #EXTINF:  95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (720p)
-https://xurl.es/w8y1m #EXTINF:  a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/L5JDAkh.png" group-title="Relax",Fish Tank (720p)
-https://xurl.es/w8y1m #EXTINF:  a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
-https://xurl.es/w8y1m #EXTINF:  a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams (720p)
-https://xurl.es/w8y1m #EXTINF:  content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/w8y1m #EXTINF:  i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
-https://xurl.es/w8y1m #EXTINF:  stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTM3U x-tvg-url=" VIAJES"
+#EXTINF:-1 tvg-id="BamBarBiaTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/LIk85IA.png" group-title="Travel",BamBarBia TV (1080p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  cdn1.live-tv.od.ua:8083/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/kaygc #EXTINF:  funroads.tv/wp-content/uploads/fun-roads-header-horizontal-1.png" group-title="Travel",Fun Roads (720p)
+https://xurl.es/kaygc #EXTINF:  104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/kaygc #EXTINF:  od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Travel",Go Traveler (720p)
+https://xurl.es/kaygc #EXTINF:  dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/kaygc #EXTINF:  web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (1080p)
+https://xurl.es/kaygc #EXTINF:  d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTravel.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/kaygc #EXTINF:  images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Travel",Pluto TV Travel (720p)
+https://xurl.es/kaygc #EXTINF:  service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RadioRutasdelPerú.es" tvg-country="ES;PE" tvg-language="Spanish" tvg-logo="https://xurl.es/kaygc #EXTINF:  graph.facebook.com/1121106071333048/picture?width=320&height=320" group-title="Travel",Radio Rutas del Perú (360p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/NymtU1E.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Travel",RTG HD (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://xurl.es/kaygc #EXTINF:  ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:-1 tvg-id="TravelGuideTV.ua" tvg-country="UA" tvg-language="Ukrainian;Russian" tvg-logo="" group-title="Travel",Travel Guide TV (720p)
+https://xurl.es/kaygc #EXTINF:  cdn10.live-tv.od.ua:8083/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelMix.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://xurl.es/kaygc #EXTINF:  static.cinemagia.ro/img/tv_station/travel-mix.jpg" group-title="Travel",Travel Mix (1080p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  89.38.8.131:39520
+#EXTINF:-1 tvg-id="TravelingoTV.xk" tvg-country="XK" tvg-language="Albanian" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/PS0j4ic.png" group-title="Travel",Travelingo TV (1080p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  abdyli.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/ytkytq.m3u8
+#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/cZM2t0P.png" group-title="Travel",Tunisie Immobilier TV (720p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/3lxkJxb.png" group-title="Travel",TV Paraná Turismo (720p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVSTravel.us" tvg-country="US" tvg-language="English" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/Bgqy4fL.jpg" group-title="Travel",TVS Travel Network (720p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="TVTUR.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Travel",ТВТУР (720p) [Geo-blocked]
+https://xurl.es/kaygc #EXTINF:  strm.yandex.ru/kal/tvtour/tvtour0.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xurl.es/kaygc #EXTINF:  avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001662fa9eb27aefc58bb87bcf68f33/260x160" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Travel",Телепутешествия (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://xurl.es/kaygc #EXTINF:  ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:-1 tvg-id="YaLuWeiShi.hk" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://xurl.es/kaygc #EXTINF:  i.imgur.com/1wbOhJV.jpg" group-title="Travel",亞旅衛視 (720p) [Not 24/7]
+https://xurl.es/kaygc #EXTINF:  hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
